@@ -1,0 +1,9 @@
+.content {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+#inner-box {
+  background-color: yellow;
+  padding: 5px;
+}
